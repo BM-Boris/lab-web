@@ -1,0 +1,1 @@
+Sitemap: https://bm-boris.github.io/lab-web/sitemap.xml
